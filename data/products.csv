@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,cost_price,selling_price
+1001,TechNova Laptop 01,Electronics,TechNova,41530,68450
+1002,Mobix Smartphone 02,Electronics,Mobix,19900,31150
+1003,SoundMax Tablet 03,Electronics,SoundMax,13050,17250
+1004,VisionX Bluetooth Speaker 04,Electronics,VisionX,35330,58800
+1005,TechNova Wireless Earbuds 05,Electronics,TechNova,27150,46200
+1006,Mobix Smart Watch 06,Electronics,Mobix,7940,12550
+1007,SoundMax Monitor 07,Electronics,SoundMax,39630,54700
+1008,VisionX Power Bank 08,Electronics,VisionX,37950,60450
+1009,TechNova Laptop 09,Electronics,TechNova,52010,69500
+1010,Mobix Smartphone 10,Electronics,Mobix,29080,45950
+1011,SoundMax Tablet 11,Electronics,SoundMax,40940,63300
+1012,VisionX Bluetooth Speaker 12,Electronics,VisionX,2780,3650
+1013,TechNova Wireless Earbuds 13,Electronics,TechNova,14430,19300
+1014,Mobix Smart Watch 14,Electronics,Mobix,24440,37800
+1015,SoundMax Monitor 15,Electronics,SoundMax,20240,25000
+1016,VisionX Power Bank 16,Electronics,VisionX,22640,37450
+1017,TechNova Laptop 17,Electronics,TechNova,25270,41900
+1018,ClickPro Wireless Mouse 01,Accessories,ClickPro,3910,5900
+1019,KeyMaster Mechanical Keyboard 02,Accessories,KeyMaster,1660,2150
+1020,TravelPro Backpack 03,Accessories,TravelPro,3550,5150
+1021,GearHub USB Hub 04,Accessories,GearHub,1020,1250
+1022,ClickPro Phone Stand 05,Accessories,ClickPro,1740,2900
+1023,KeyMaster Laptop Sleeve 06,Accessories,KeyMaster,1830,2350
+1024,TravelPro Travel Pouch 07,Accessories,TravelPro,3530,4450
+1025,GearHub Wireless Mouse 08,Accessories,GearHub,2010,2800
+1026,ClickPro Mechanical Keyboard 09,Accessories,ClickPro,2980,5000
+1027,KeyMaster Backpack 10,Accessories,KeyMaster,2980,4700
+1028,TravelPro USB Hub 11,Accessories,TravelPro,1920,2350
+1029,GearHub Phone Stand 12,Accessories,GearHub,3780,5950
+1030,ClickPro Laptop Sleeve 13,Accessories,ClickPro,740,1100
+1031,KeyMaster Travel Pouch 14,Accessories,KeyMaster,2490,3400
+1032,TravelPro Wireless Mouse 15,Accessories,TravelPro,1730,2800
+1033,GearHub Mechanical Keyboard 16,Accessories,GearHub,1730,2750
+1034,UrbanWear Cotton T-Shirt 01,Fashion,UrbanWear,1800,2400
+1035,StyleNest Denim Jeans 02,Fashion,StyleNest,3710,5050
+1036,DenimCo Hoodie 03,Fashion,DenimCo,3330,4550
+1037,FitStreet Casual Shirt 04,Fashion,FitStreet,3100,4100
+1038,UrbanWear Track Pants 05,Fashion,UrbanWear,1170,1700
+1039,StyleNest Sneakers 06,Fashion,StyleNest,1960,2400
+1040,DenimCo Jacket 07,Fashion,DenimCo,3540,4750
+1041,FitStreet Cotton T-Shirt 08,Fashion,FitStreet,1560,2100
+1042,UrbanWear Denim Jeans 09,Fashion,UrbanWear,4620,6050
+1043,StyleNest Hoodie 10,Fashion,StyleNest,670,1050
+1044,DenimCo Casual Shirt 11,Fashion,DenimCo,700,900
+1045,FitStreet Track Pants 12,Fashion,FitStreet,2090,3250
+1046,UrbanWear Sneakers 13,Fashion,UrbanWear,1640,2050
+1047,StyleNest Jacket 14,Fashion,StyleNest,3400,4300
+1048,DenimCo Cotton T-Shirt 15,Fashion,DenimCo,1700,2700
+1049,FitStreet Denim Jeans 16,Fashion,FitStreet,2600,3850
+1050,UrbanWear Hoodie 17,Fashion,UrbanWear,4810,6550
+1051,GlowCare Face Moisturizer 01,Beauty,GlowCare,450,700
+1052,PureSkin Face Wash 02,Beauty,PureSkin,760,1000
+1053,HerbAura Sunscreen 03,Beauty,HerbAura,1250,1950
+1054,Lumi Shampoo 04,Beauty,Lumi,1430,2100
+1055,GlowCare Body Lotion 05,Beauty,GlowCare,1420,2100
+1056,PureSkin Lip Balm 06,Beauty,PureSkin,780,950
+1057,HerbAura Hair Serum 07,Beauty,HerbAura,460,650
+1058,Lumi Face Moisturizer 08,Beauty,Lumi,380,500
+1059,GlowCare Face Wash 09,Beauty,GlowCare,370,600
+1060,PureSkin Sunscreen 10,Beauty,PureSkin,580,750
+1061,HerbAura Shampoo 11,Beauty,HerbAura,1160,1600
+1062,Lumi Body Lotion 12,Beauty,Lumi,970,1450
+1063,GlowCare Lip Balm 13,Beauty,GlowCare,1200,1700
+1064,PureSkin Hair Serum 14,Beauty,PureSkin,1570,2000
+1065,HerbAura Face Moisturizer 15,Beauty,HerbAura,190,250
+1066,Lumi Face Wash 16,Beauty,Lumi,450,600
+1067,GlowCare Sunscreen 17,Beauty,GlowCare,1480,1950
+1068,HomeBrew Coffee Maker 01,Home & Kitchen,HomeBrew,7560,10300
+1069,KitchenPro Mixer Grinder 02,Home & Kitchen,KitchenPro,1240,1900
+1070,CasaLiving Water Bottle 03,Home & Kitchen,CasaLiving,1720,2500
+1071,DailyHome Cookware Set 04,Home & Kitchen,DailyHome,7660,9700
+1072,HomeBrew Storage Box 05,Home & Kitchen,HomeBrew,3130,3850
+1073,KitchenPro Desk Lamp 06,Home & Kitchen,KitchenPro,6380,10250
+1074,CasaLiving Bedsheet 07,Home & Kitchen,CasaLiving,1460,1850
+1075,DailyHome Coffee Maker 08,Home & Kitchen,DailyHome,3360,4300
+1076,HomeBrew Mixer Grinder 09,Home & Kitchen,HomeBrew,5050,6950
+1077,KitchenPro Water Bottle 10,Home & Kitchen,KitchenPro,1640,2450
+1078,CasaLiving Cookware Set 11,Home & Kitchen,CasaLiving,1810,2550
+1079,DailyHome Storage Box 12,Home & Kitchen,DailyHome,8370,10450
+1080,HomeBrew Desk Lamp 13,Home & Kitchen,HomeBrew,360,500
+1081,KitchenPro Bedsheet 14,Home & Kitchen,KitchenPro,3950,6750
+1082,CasaLiving Coffee Maker 15,Home & Kitchen,CasaLiving,4030,5100
+1083,DailyHome Mixer Grinder 16,Home & Kitchen,DailyHome,8590,11100
+1084,HomeBrew Water Bottle 17,Home & Kitchen,HomeBrew,2110,3550
+1085,SportFlex Yoga Mat 01,Sports,SportFlex,4300,6000
+1086,FitLife Running Shoes 02,Sports,FitLife,540,900
+1087,RunPro Gym Gloves 03,Sports,RunPro,2720,3500
+1088,ActiveX Resistance Band 04,Sports,ActiveX,3720,5250
+1089,SportFlex Football 05,Sports,SportFlex,730,1200
+1090,FitLife Skipping Rope 06,Sports,FitLife,2740,3400
+1091,RunPro Sports Bottle 07,Sports,RunPro,930,1450
+1092,ActiveX Yoga Mat 08,Sports,ActiveX,4320,5950
+1093,SportFlex Running Shoes 09,Sports,SportFlex,1410,1750
+1094,FitLife Gym Gloves 10,Sports,FitLife,3930,5200
+1095,RunPro Resistance Band 11,Sports,RunPro,1240,1650
+1096,ActiveX Football 12,Sports,ActiveX,2420,2950
+1097,SportFlex Skipping Rope 13,Sports,SportFlex,3050,4550
+1098,FitLife Sports Bottle 14,Sports,FitLife,2550,3700
+1099,RunPro Yoga Mat 15,Sports,RunPro,1240,1950
+1100,ActiveX Running Shoes 16,Sports,ActiveX,1490,2550
